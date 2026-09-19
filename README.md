@@ -36,6 +36,7 @@
 * Safety          : Ensure proper wire connections and avoid short circuits.  
   
 
+![LED-Greeting-card-project](LED-Greeting-card-project.jpeg)
 
   
 **![][image1]![][image2]**  
